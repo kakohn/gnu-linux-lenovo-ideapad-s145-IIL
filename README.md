@@ -24,7 +24,7 @@ _Solus Linux_
 ```
 $ sudo eopkg update
 $ sudo eopkg install -c system.devel
-$ sudo eopkg install make git gcc
+$ sudo eopkg install make git gcc linux-headers-$(uname -r)
 ```
 _Clonar modulo rtw_8822ce rtw_8723de rtw_8822be_ 🔧
 ```
