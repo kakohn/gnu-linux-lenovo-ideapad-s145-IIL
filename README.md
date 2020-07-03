@@ -10,6 +10,22 @@ _Debian/Ubuntu_
 $ sudo apt update && sudo apt upgrade
 $ sudo apt install make git gcc build-essential linux-headers-$(uname -r)
 ```
+_Void Linux_
+```
+$ sudo xbps-install -Suy
+$ sudo xbps-install -S make git gcc base-devel linux-headers-$(uname -r)
+```
+_Arch Linux_
+```
+$ sudo pacman -Suy
+$ sudo pacman -S make git gcc base-devel linux-headers-$(uname -r)
+```
+_Solus Linux_
+```
+sudo eopkg update
+sudo eopkg install -c system.devel
+sudo eopkg install make git gcc
+```
 _Clonar modulo rtw_8822ce rtw_8723 rtw_8822be_ 🔧
 ```
 $ git clone https://github.com/lwfinger/rtlwifi_new.git -b -rtw88
