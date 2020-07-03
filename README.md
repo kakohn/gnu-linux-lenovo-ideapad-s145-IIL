@@ -16,20 +16,19 @@ Clonar modulo rtw_8822ce
 $ git clone https://github.com/lwfinger/rtlwifi_new.git -b -rtw88
 $ sudo su -
 
-'# cd /home/user/rtlwifi_new'
+"# cd /home/user/rtlwifi_new
 
-'# make clean'
+"# make clean
 
-'# make' 
+"# make 
 
-'# make clean'
+"# make clean
 
-'# make install'
+"# make install
 
-'# modprobe rtw_8822ce'
+"# modprobe rtw_8822ce
 
-'# Touchpad Section'
-
+# Touchpad Section
 Elantech Touchpad
 
 $ sudo nano /etc/default/grub
