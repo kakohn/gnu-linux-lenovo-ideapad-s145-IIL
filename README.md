@@ -1,6 +1,8 @@
 # Lenovo-ideapad-s145-llL
 Configuración, bug fixes, y demas cosas sobre compatibilidad.
 
+https://github.com/kakohn/Lenovo-ideapad-s145-llL/blob/master/desktop.png
+
 # WIFI Section 
 
 ## Realtek 8822ce
