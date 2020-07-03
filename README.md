@@ -22,9 +22,9 @@ $ sudo pacman -S make git gcc base-devel linux-headers-$(uname -r)
 ```
 _Solus Linux_
 ```
-sudo eopkg update
-sudo eopkg install -c system.devel
-sudo eopkg install make git gcc
+$ sudo eopkg update
+$ sudo eopkg install -c system.devel
+$ sudo eopkg install make git gcc
 ```
 _Clonar modulo rtw_8822ce rtw_8723 rtw_8822be_ 🔧
 ```
@@ -63,3 +63,11 @@ _Guardar_ ```"(ctrl+o)"``` _y salir_ ```"(ctrl+x)"```
 $ sudo update-grub
 $ sudo reboot
 ```
+### _Espero haberte ayudado en algo._
+
+#### Grupo Telegram
+```
+https://t.me/KarlasProject
+```
+
+
