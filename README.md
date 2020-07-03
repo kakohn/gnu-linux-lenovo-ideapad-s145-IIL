@@ -3,7 +3,7 @@ Configuración, bug fixes, y demas cosas sobre compatibilidad.
 
 # WIFI Section 
 
-##Realtek 8822ce
+## Realtek 8822ce
 Dependiendo de la distribución GNU/Linux, instalar la paquetería necesaría para compilar los modulos al kernel
 
 Debian/Ubuntu
@@ -27,8 +27,10 @@ $ sudo su -
 
 # make install
 
-# modprobe rtw_8822ce
+# modprobe <dev_name>
 ```
+## rtw_8723de rtw_8723d rtw_8822be rtw_8822b rtw_8822ce rtw_8822c
+
 # Touchpad Section
 Elantech Touchpad
 ```
