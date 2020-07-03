@@ -3,7 +3,7 @@ Configuración, bug fixes, y demas cosas sobre compatibilidad.
 
 # WIFI Section 
 
-Realtek 8822ce
+# Realtek 8822ce #
 Dependiendo de la distribución GNU/Linux, instalar la paquetería necesaría para compilar los modulos al kernel
 
 Debian/Ubuntu
