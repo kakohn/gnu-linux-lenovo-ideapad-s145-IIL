@@ -1,5 +1,5 @@
 # Lenovo-ideapad-s145-llL 
-![alt text](https://raw.githubusercontent.com/kakohn/Lenovo-ideapad-s145-llL/blob/master/desktop.png)
+![alt text](https://raw.githubusercontent.com/kakohn/Lenovo-ideapad-s145-llL/blob/master/desktop.png?raw=true)
 
 # WIFI Section 📋
 
