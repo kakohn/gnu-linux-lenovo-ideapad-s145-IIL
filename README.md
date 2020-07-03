@@ -2,7 +2,7 @@
 ![desktop](https://user-images.githubusercontent.com/65475712/86492425-583f2c80-bd2b-11ea-8cc6-fbddfce9ffad.png)
 # WIFI Section 📋
 
-### Realtek 8822ce
+### Chip WIFI Realtek rama "rt8" (rtw_8723de, rtw_8822be, 8822ce).
 Dependiendo de la distribución GNU/Linux, instalar la paquetería necesaría para compilar los modulos al kernel.
 
 _Debian/Ubuntu_
@@ -26,7 +26,7 @@ $ sudo eopkg update
 $ sudo eopkg install -c system.devel
 $ sudo eopkg install make git gcc
 ```
-_Clonar modulo rtw_8822ce rtw_8723 rtw_8822be_ 🔧
+_Clonar modulo rtw_8822ce rtw_8723de rtw_8822be_ 🔧
 ```
 $ git clone https://github.com/lwfinger/rtlwifi_new.git -b -rtw88
 
