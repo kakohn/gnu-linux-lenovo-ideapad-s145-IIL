@@ -1,7 +1,7 @@
-# Lenovo-ideapad-s145-llL
+# Lenovo-ideapad-s145-llL 
 Configuración, bug fixes, y demas cosas sobre compatibilidad.
 
-# WIFI Section 
+# WIFI Section 📋
 
 ## Realtek 8822ce
 Dependiendo de la distribución GNU/Linux, instalar la paquetería necesaría para compilar los modulos al kernel.
@@ -11,7 +11,7 @@ _Debian/Ubuntu_
 $ sudo apt update && sudo apt upgrade
 $ sudo apt install make git gcc build-essential linux-headers-$(uname -r)
 ```
-_Clonar modulo rtw_8822ce rtw_8723 rtw_8822be_
+_Clonar modulo rtw_8822ce rtw_8723 rtw_8822be_ 🔧
 ```
 $ git clone https://github.com/lwfinger/rtlwifi_new.git -b -rtw88
 
@@ -31,7 +31,7 @@ $ sudo su -
 
 <dev_name> = rtw_8723de rtw_8822be rtw_8822ce 
 ```
-# Touchpad Section
+# Touchpad Section 📋
 ## Elantech Touchpad
 ```
 $ sudo nano /etc/default/grub
