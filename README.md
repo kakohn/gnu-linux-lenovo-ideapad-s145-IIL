@@ -63,11 +63,13 @@ _Guardar_ ```"(ctrl+o)"``` _y salir_ ```"(ctrl+x)"```
 $ sudo update-grub
 $ sudo reboot
 ```
-### _Espero haberte ayudado en algo._
-
-#### Grupo Telegram
+# ¡Espero haberte ayudado!
+#### Grupos de Telegram
+#### Windows/GNU/Linux/BSD
 ```
 https://t.me/KarlasProject
 ```
-
-
+#### Software libre y/o Opensource
+```
+https://t.me/drivemeca_opensource
+```
