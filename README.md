@@ -60,7 +60,7 @@ _Agregar una nueva linea CMD_
 ```
 GRUB_CMDLINE_LINUX="i8042.nopnp=1 pci=nocrs"
 ```
-_Guardar_ ```"ctrl+o"``` _y salir_ ```"ctrl+x"```
+_Guardar_ ```ctrl+o``` _y salir_ ```ctrl+x```
 ```
 $ sudo update-grub
 $ sudo reboot
