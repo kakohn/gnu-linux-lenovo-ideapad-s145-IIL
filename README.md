@@ -1,9 +1,8 @@
 # Lenovo-ideapad-s145-llL 
-![alt text](https://raw.githubusercontent.com/kakohn/Lenovo-ideapad-s145-llL/blob/master/desktop.png?raw=true)
 
 # WIFI Section 📋
 
-## Realtek 8822ce
+### Realtek 8822ce
 Dependiendo de la distribución GNU/Linux, instalar la paquetería necesaría para compilar los modulos al kernel.
 
 _Debian/Ubuntu_
@@ -48,7 +47,7 @@ $ sudo su -
 <dev_name> = rtw_8723de rtw_8822be rtw_8822ce 
 ```
 # Touchpad Section 📋
-## Elantech Touchpad
+### Elantech Touchpad
 ```
 $ sudo nano /etc/default/grub
 ```
