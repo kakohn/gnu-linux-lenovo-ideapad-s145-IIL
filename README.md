@@ -1,5 +1,5 @@
 # Lenovo-ideapad-s145-llL 
-
+![desktop](https://user-images.githubusercontent.com/65475712/86492425-583f2c80-bd2b-11ea-8cc6-fbddfce9ffad.png)
 # WIFI Section 📋
 
 ### Realtek 8822ce
@@ -52,6 +52,9 @@ $ sudo su -
 $ sudo nano /etc/default/grub
 ```
 _Agregar una nueva linea CMD_
+
+![2020-07-03-124841_722x470_scrot](https://user-images.githubusercontent.com/65475712/86492565-c84db280-bd2b-11ea-9989-2ecdbfb6ff6d.png)
+
 ```
 GRUB_CMDLINE_LINUX="i8042.nopnp=1 pci=nocrs"
 ```
