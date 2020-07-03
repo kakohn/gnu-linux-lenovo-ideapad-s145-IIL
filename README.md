@@ -1,6 +1,5 @@
 # Lenovo-ideapad-s145-llL
 Configuración, bug fixes, y demas cosas sobre compatibilidad.
-https://raw.githubusercontent.com/kako8_6/master/Lenovo-ideapad-s145-llL/desktop.png 
 
 # WIFI Section 
 
