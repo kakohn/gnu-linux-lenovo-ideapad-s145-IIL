@@ -28,9 +28,9 @@ $ sudo su -
 # make install
 
 # modprobe <dev_name>
-```
-## <dev_name> = rtw_8723de rtw_8723d rtw_8822be rtw_8822b rtw_8822ce rtw_8822c
 
+<dev_name> = rtw_8723de rtw_8723d rtw_8822be rtw_8822b rtw_8822ce rtw_8822c
+```
 # Touchpad Section
 Elantech Touchpad
 ```
