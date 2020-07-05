@@ -1,6 +1,6 @@
 # Lenovo-ideapad-s145-IIL 
 ![desktop](https://user-images.githubusercontent.com/65475712/86492425-583f2c80-bd2b-11ea-8cc6-fbddfce9ffad.png)
-# WIFI Section 📋
+# WIFI Section ✓
 
 ### Chip WIFI Realtek rama "rtw88" (rtw_8723de, rtw_8822be, 8822ce).
 Dependiendo de la distribución GNU/Linux, instalar la paquetería necesaría para compilar los modulos al kernel.
@@ -48,7 +48,7 @@ $ sudo su -
              rtw_8822be 
              rtw_8822ce 
 ```
-# Touchpad Section 📋
+# Touchpad Section ✓
 #### Elantech Touchpad
 
 Se debe agregar una linea de GRUB CMD, en el archivo configuración de /etc/default/grub
