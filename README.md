@@ -68,7 +68,7 @@ $ sudo update-grub
 $ sudo reboot
 ```
 # Personalización LXDE Pronto
-
+![2020-07-05-143131_1366x768_scrot](https://user-images.githubusercontent.com/65475712/86541732-76905e00-becc-11ea-847e-8cfea7752047.png)
 # ¡Espero haberte ayudado!
 ### Grupos de Telegram
 #### Windows/GNU/Linux/BSD
