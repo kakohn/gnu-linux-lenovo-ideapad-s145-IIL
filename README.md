@@ -5,28 +5,28 @@
 ### Chip WIFI Realtek rama "rtw88" (rtw_8723de, rtw_8822be, 8822ce).
 Dependiendo de la distribución GNU/Linux, instalar la paquetería necesaría para compilar los modulos al kernel.
 
-_Debian/Ubuntu_
+#### _Debian/Ubuntu_
 ```
 $ sudo apt update && sudo apt upgrade
 $ sudo apt install make git gcc build-essential linux-headers-$(uname -r)
 ```
-_Void Linux_
+#### _Void Linux_
 ```
 $ sudo xbps-install -Suy
 $ sudo xbps-install -S make git gcc base-devel linux-headers-$(uname -r)
 ```
-_Arch Linux_
+#### _Arch Linux_
 ```
 $ sudo pacman -Suy
 $ sudo pacman -S make git gcc base-devel linux-headers-$(uname -r)
 ```
-_Solus Linux_
+#### _Solus Linux_
 ```
 $ sudo eopkg update
 $ sudo eopkg install -c system.devel
 $ sudo eopkg install make git gcc linux-headers-$(uname -r)
 ```
-_Clonar modulo rtw_8822ce rtw_8723de rtw_8822be_ 🔧
+#### _Clonar modulo rtw_8822ce rtw_8723de rtw_8822be_ 🔧
 ```
 $ git clone https://github.com/lwfinger/rtlwifi_new.git -b -rtw88
 
@@ -49,7 +49,7 @@ $ sudo su -
              rtw_8822ce 
 ```
 # Touchpad Section 📋
-### Elantech Touchpad
+#### Elantech Touchpad
 ```
 $ sudo nano /etc/default/grub
 ```
@@ -66,7 +66,7 @@ $ sudo update-grub
 $ sudo reboot
 ```
 # ¡Espero haberte ayudado!
-#### Grupos de Telegram
+### Grupos de Telegram
 #### Windows/GNU/Linux/BSD
 ```
 https://t.me/KarlasProject
