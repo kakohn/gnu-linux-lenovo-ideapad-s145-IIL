@@ -50,13 +50,15 @@ $ sudo su -
 ```
 # Touchpad Section 📋
 #### Elantech Touchpad
+
+Se debe agregar una linea de GRUB CMD, en el archivo configuración de /etc/default/grub
+
 ```
 $ sudo nano /etc/default/grub
 ```
-_Agregar una nueva linea CMD_
+_Agregar una nueva linea de GRUB CMD_
 
 ![2020-07-03-124841_722x470_scrot](https://user-images.githubusercontent.com/65475712/86492565-c84db280-bd2b-11ea-9989-2ecdbfb6ff6d.png)
-
 ```
 GRUB_CMDLINE_LINUX="i8042.nopnp=1 pci=nocrs"
 ```
