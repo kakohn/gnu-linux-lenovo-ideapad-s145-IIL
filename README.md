@@ -67,10 +67,10 @@ _Guardar_ ```ctrl+o``` _y salir_ ```ctrl+x```
 $ sudo update-grub
 $ sudo reboot
 ```
-# Personalización LXDE Pronto
+# Personalización LXDE ¡Pronto!
 ![2020-07-05-143131_1366x768_scrot](https://user-images.githubusercontent.com/65475712/86541732-76905e00-becc-11ea-847e-8cfea7752047.png)
 
-# Optimizaciones
+# Optimizaciones ¡Pronto!
 ![2020-07-05-144652_722x470_scrot](https://user-images.githubusercontent.com/65475712/86541940-71cca980-bece-11ea-906e-0ab9a3c430eb.png)
 
 # ¡Espero haberte ayudado!
