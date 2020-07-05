@@ -1,4 +1,4 @@
-# Lenovo-ideapad-s145-llL 
+# Lenovo-ideapad-s145-IIL 
 ![desktop](https://user-images.githubusercontent.com/65475712/86492425-583f2c80-bd2b-11ea-8cc6-fbddfce9ffad.png)
 # WIFI Section 📋
 
