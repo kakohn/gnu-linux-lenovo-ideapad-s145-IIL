@@ -71,9 +71,9 @@ $ sudo reboot
 ### Grupos de Telegram
 #### Windows/GNU/Linux/BSD
 ```
-https://t.me/KarlasProject
+###### https://t.me/KarlasProject
 ```
 #### Software libre y/o Opensource
 ```
-https://t.me/drivemeca_opensource
+##### https://t.me/drivemeca_opensource
 ```
