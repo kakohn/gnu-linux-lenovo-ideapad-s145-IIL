@@ -68,7 +68,7 @@ $ sudo update-grub
 $ sudo reboot
 ```
 # Personalización LXDE ¡Pronto!
-![2020-07-05-143131_1366x768_scrot](https://user-images.githubusercontent.com/65475712/86541732-76905e00-becc-11ea-847e-8cfea7752047.png)
+![2020-07-06-124157_1366x768_scrot](https://user-images.githubusercontent.com/65475712/86627824-22e24b00-bf86-11ea-9325-eeca4c793d1f.png)
 
 # Optimizaciones ¡Pronto!
 ![2020-07-05-144652_722x470_scrot](https://user-images.githubusercontent.com/65475712/86541940-71cca980-bece-11ea-906e-0ab9a3c430eb.png)
