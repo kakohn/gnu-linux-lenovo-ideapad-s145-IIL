@@ -1,5 +1,6 @@
 # Lenovo-ideapad-s145-IIL 
-![2020-07-06-124157_1366x768_scrot](https://user-images.githubusercontent.com/65475712/86627824-22e24b00-bf86-11ea-9325-eeca4c793d1f.png)
+![2020-07-08-074912_1366x768_scrot](https://user-images.githubusercontent.com/65475712/86926662-918ee800-c0ef-11ea-9a47-411b02ce7b33.png)
+
 # WIFI ✓
 
 ### Chip WIFI Realtek rama "rtw88" (rtw_8723de, rtw_8822be, 8822ce).
