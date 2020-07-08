@@ -49,6 +49,28 @@ $ sudo su -
              rtw_8822be 
              rtw_8822ce 
 ```
+#### _Si el kernel cambiace, compilar de nuevo.
+
+```
+$ sudo su -
+
+# cd /home/user/rtlwifi_new
+
+# make clean
+
+# make 
+
+# make clean
+
+# make install
+
+# modprobe <dev_name>
+
+<dev_name> = rtw_8723de 
+             rtw_8822be 
+             rtw_8822ce 
+```
+
 # Touchpad ✓
 #### Elantech Touchpad
 
