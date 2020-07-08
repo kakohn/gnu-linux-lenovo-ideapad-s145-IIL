@@ -71,7 +71,7 @@ $ sudo reboot
 ![2020-07-06-124157_1366x768_scrot](https://user-images.githubusercontent.com/65475712/86627824-22e24b00-bf86-11ea-9325-eeca4c793d1f.png)
 
 # Optimizaciones ¡Pronto!
-![2020-07-05-144652_722x470_scrot](https://user-images.githubusercontent.com/65475712/86541940-71cca980-bece-11ea-906e-0ab9a3c430eb.png)
+![2020-07-08-073110_722x470_scrot](https://user-images.githubusercontent.com/65475712/86925523-390b1b00-c0ee-11ea-8497-23e9362e4378.png)
 
 # ¡Espero haberte ayudado!
 ### Grupos de Telegram
