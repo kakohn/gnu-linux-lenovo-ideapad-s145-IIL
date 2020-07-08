@@ -49,7 +49,7 @@ $ sudo su -
              rtw_8822be 
              rtw_8822ce 
 ```
-#### _Si el kernel cambiace, compilar de nuevo_
+#### _Si el kernel cambiase, compilar de nuevo_
 
 ```
 $ sudo su -
