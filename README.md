@@ -1,4 +1,4 @@
-# Lenovo-ideapad-s145-IIL 
+# Lenovo-Ideapad-s145-IIL 
 ![2020-07-08-074912_1366x768_scrot](https://user-images.githubusercontent.com/65475712/86926662-918ee800-c0ef-11ea-9a47-411b02ce7b33.png)
 
 # WIFI ✓
