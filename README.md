@@ -92,7 +92,6 @@ $ sudo reboot
 ```
 # Personalización LXDE ¡Pronto!
 ![2020-07-06-124157_1366x768_scrot](https://user-images.githubusercontent.com/65475712/86627824-22e24b00-bf86-11ea-9325-eeca4c793d1f.png)
-![Link youtube](https://www.youtube.com/watch?v=pzQiQrm0Ei4&feature=youtu.be)
 
 # Optimizaciones ¡Pronto!
 ![2020-07-08-073110_722x470_scrot](https://user-images.githubusercontent.com/65475712/86925523-390b1b00-c0ee-11ea-8497-23e9362e4378.png)
