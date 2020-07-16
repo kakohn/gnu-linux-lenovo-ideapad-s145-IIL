@@ -31,7 +31,7 @@ $ sudo eopkg install make git gcc linux-headers-$(uname -r)
 ```
 $ git clone https://github.com/lwfinger/rtw88.git
 $ sudo su -
-# cd /home/user/rtlwifi_new
+# cd /home/user/rtw88
 # make clean
 # make 
 # make clean
@@ -45,7 +45,7 @@ $ sudo su -
 
 ```
 $ sudo su -
-# cd /home/user/rtlwifi_new
+# cd /home/user/rtw88
 # make clean
 # make 
 # make clean
