@@ -29,8 +29,7 @@ $ sudo eopkg install make git gcc linux-headers-$(uname -r)
 ```
 #### _Clonar modulo rtw_8822ce rtw_8723de rtw_8822be_ 🔧
 ```
-$ git clone https://github.com/lwfinger/rtlwifi_new.git -b -rtw88
-
+$ git clone https://github.com/lwfinger/rtw88.git
 $ sudo su -
 
 # cd /home/user/rtlwifi_new
