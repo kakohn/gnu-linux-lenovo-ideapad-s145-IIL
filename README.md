@@ -75,7 +75,7 @@ _Guardar_ ```ctrl+o``` _y salir_ ```ctrl+x```
 $ sudo update-grub
 $ sudo reboot
 ```
-# Personalización LXDE ¡Pronto!
+# Personalización LXDE
 ![2020-07-06-124157_1366x768_scrot](https://user-images.githubusercontent.com/65475712/86627824-22e24b00-bf86-11ea-9325-eeca4c793d1f.png)
 
 # ¡Espero haberte ayudado!
