@@ -1,4 +1,4 @@
-# Lenovo-Ideapad-s145-IIL 
+# Lenovo-Ideapad-s145-14IIL 
 ![Captura de pantalla de 2020-08-04 11-26-32](https://user-images.githubusercontent.com/65475712/89325025-71e2d500-d645-11ea-958a-b60f856a23ed.png)
 
 # WIFI ✓
@@ -78,7 +78,7 @@ $ sudo reboot
 # Personalización LXDE
 ![2020-07-06-124157_1366x768_scrot](https://user-images.githubusercontent.com/65475712/86627824-22e24b00-bf86-11ea-9325-eeca4c793d1f.png)
 
-# Personalizacion Budgie
+# Personalización Budgie
 ![Captura de pantalla de 2020-08-04 11-27-59](https://user-images.githubusercontent.com/65475712/89325104-9179fd80-d645-11ea-8872-6561a0c497e2.png)
 
 # ¡Espero haberte ayudado!
