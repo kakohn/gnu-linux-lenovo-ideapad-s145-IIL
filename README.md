@@ -102,7 +102,7 @@ $ cd linux
 $ mkdir linux_kernel
 $ tar xvf linux-* -C linux_kernel/ --strip-components=1
 $ cd ./linux_kernel/
-$ make localmodconfig
+$ make localmodconfig-----= Coge solamente el hardware conectado
 $ make deb-pkg
 ```
 
