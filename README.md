@@ -87,7 +87,7 @@ $ sudo reboot
 _Paquetes necesarios_
 ```
 $ sudo apt install build-essential libssl-dev libncurses5-dev gcc bc bison flex libelf-dev
-``
+```
 
 ```
 https://www.kernel.org/
@@ -103,11 +103,11 @@ $ make deb-pkg
 
 # ¡Espero haberte ayudado!
 ### Grupos de Telegram
+
 #### Windows/GNU/Linux/BSD
-```
+
 https://t.me/KarlasProject
-```
+
 #### Software libre y/o Opensource
-```
+
 https://t.me/drivemeca_opensource
-```
