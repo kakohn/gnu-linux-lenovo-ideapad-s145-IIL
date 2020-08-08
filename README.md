@@ -82,6 +82,25 @@ $ sudo reboot
 # Personalización Budgie
 ![Captura de pantalla de 2020-07-30 12-05-22](https://user-images.githubusercontent.com/65475712/89587992-f9744380-d7ff-11ea-838d-96d7102e5f3d.png)
 
+# Compilar Kernel
+
+_Paquetes necesarios_
+```
+$ sudo apt install build-essential libssl-dev libncurses5-dev gcc bc bison flex libelf-dev
+``
+
+```
+https://www.kernel.org/
+$ mkdir linux
+$ cd linux
+Mover el linux*.tar.xz a la carpeta linux
+$ mkdir linux_kernel
+$ tar xvf linux-* -C linux_kernel/ --strip-components=1
+$ cd ./linux_kernel/
+$ make localmodconfig
+$ make deb-pkg
+```
+
 # ¡Espero haberte ayudado!
 ### Grupos de Telegram
 #### Windows/GNU/Linux/BSD
