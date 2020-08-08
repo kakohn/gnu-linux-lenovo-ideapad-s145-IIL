@@ -88,12 +88,15 @@ _Paquetes necesarios_
 ```
 $ sudo apt install build-essential libssl-dev libncurses5-dev gcc bc bison flex libelf-dev
 ```
+_Página donde se descarga el código fuente del kernel linux_
+https://www.kernel.org/
 
 ```
-https://www.kernel.org/
 $ mkdir linux
 $ cd linux
-Mover el linux*.tar.xz a la carpeta linux
+```
+_Mover el linux*.tar.xz a la carpeta linux_
+```
 $ mkdir linux_kernel
 $ tar xvf linux-* -C linux_kernel/ --strip-components=1
 $ cd ./linux_kernel/
