@@ -84,18 +84,20 @@ $ sudo reboot
 
 # Compilar Kernel
 
-_Paquetes necesarios_
+### _Paquetes necesarios_
+
+#### _Debian/ubuntu_
 ```
 $ sudo apt install build-essential libssl-dev libncurses5-dev gcc bc bison flex libelf-dev
 ```
-_Página donde se descarga el código fuente del kernel linux_
+#### _Página donde se descarga el código fuente del kernel linux_
 https://www.kernel.org/
 
 ```
 $ mkdir linux
 $ cd linux
 ```
-_Mover el linux*.tar.xz a la carpeta linux_
+#### _Mover el linux*.tar.xz a la carpeta linux_
 ```
 $ mkdir linux_kernel
 $ tar xvf linux-* -C linux_kernel/ --strip-components=1
