@@ -97,7 +97,7 @@ https://www.kernel.org/
 $ mkdir linux
 $ cd linux
 ```
-#### _Mover el linux*.tar.xz a la carpeta linux_
+#### _Mover el linux-*.tar.xz a la carpeta linux_
 ```
 $ mkdir linux_kernel
 $ tar xvf linux-* -C linux_kernel/ --strip-components=1
