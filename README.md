@@ -1,5 +1,5 @@
 # Lenovo-Ideapad-s145-14IIL 
-![Captura de pantalla de 2020-08-06 16-10-06](https://user-images.githubusercontent.com/65475712/89587777-87036380-d7ff-11ea-96e5-9b6488f2c88d.png)
+![Captura de pantalla de 2020-08-09 14-40-27](https://user-images.githubusercontent.com/65475712/89741416-5d8c4700-da4e-11ea-946a-754acde635cf.png)
 
 # WIFI ✓
 
@@ -102,7 +102,7 @@ $ cd linux
 $ mkdir linux_kernel
 $ tar xvf linux-* -C linux_kernel/ --strip-components=1
 $ cd ./linux_kernel/
-$ make localmodconfig-----= Coge solamente el hardware conectado
+$ make localmodconfig   localmodconfig = [Coge solamente el hardware conectado]
 $ make deb-pkg
 ```
 
