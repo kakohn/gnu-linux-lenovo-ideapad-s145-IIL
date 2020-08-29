@@ -30,11 +30,9 @@ $ sudo eopkg install make git-core gcc linux-headers-$(uname -r)
 #### _Clonar módulo rtw_8822ce rtw_8723de rtw_8822be_ 🔧
 ```
 $ git clone https://github.com/lwfinger/rtw88.git
-$ sudo su -
-# cd /home/user/rtw88
-# make clean
+$ cd rtw88
+$ sudo su
 # make 
-# make clean
 # make install
 # modprobe <dev_name>
 <dev_name> = rtw_8723de 
@@ -44,11 +42,9 @@ $ sudo su -
 #### _Si el kernel cambiase, compilar de nuevo_
 
 ```
-$ sudo su -
-# cd /home/user/rtw88
-# make clean
+$ cd rtw88
+$ sudo su 
 # make 
-# make clean
 # make install
 # modprobe <dev_name>
 <dev_name> = rtw_8723de 
