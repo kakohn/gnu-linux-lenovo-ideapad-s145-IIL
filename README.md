@@ -31,10 +31,9 @@ $ sudo eopkg install make git-core gcc linux-headers-$(uname -r)
 ```
 $ git clone https://github.com/lwfinger/rtw88.git
 $ cd rtw88
-$ sudo su
-# make 
-# make install
-# modprobe <dev_name>
+$ make 
+$ sudo make install
+$ modprobe <dev_name>
 <dev_name> = rtw_8723de 
              rtw_8822be 
              rtw_8822ce 
@@ -42,11 +41,10 @@ $ sudo su
 #### _Si el kernel cambiase, compilar de nuevo_
 
 ```
-$ cd rtw88
-$ sudo su 
-# make 
-# make install
-# modprobe <dev_name>
+$ cd rtw88 
+$ make 
+$ sudo make install
+$ sudo modprobe <dev_name>
 <dev_name> = rtw_8723de 
              rtw_8822be 
              rtw_8822ce 
