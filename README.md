@@ -90,12 +90,10 @@ https://www.kernel.org/
 ```
 $ mkdir linux
 $ cd linux
-```
-#### _Mover el linux-*.tar.xz a la carpeta linux_
-```
+$ mv linux-*.tar.xz ~/linux_kernel/
 $ mkdir linux_kernel
 $ tar xvf linux-* -C linux_kernel/ --strip-components=1
-$ cd ./linux_kernel/
+$ cd linux_kernel/
 $ make localmodconfig   localmodconfig = [Coge solamente el hardware conectado]
 $ make deb-pkg
 ```
