@@ -90,8 +90,8 @@ https://www.kernel.org/
 ```
 $ mkdir linux
 $ cd linux
-$ mkdir linux_kernel
 $ mv ~/Descargas/linux-*.tar.xz ~/linux
+$ mkdir linux_kernel
 $ tar xvf linux-* -C linux_kernel/ --strip-components=1
 $ cd linux_kernel/
 $ make localmodconfig   localmodconfig = [Coge solamente el hardware conectado]
