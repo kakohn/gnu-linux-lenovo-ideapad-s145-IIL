@@ -1,5 +1,5 @@
 # Lenovo-Ideapad-s145-14IIL 
-![Captura de pantalla de 2020-09-06 13-09-56](https://user-images.githubusercontent.com/65475712/92333389-4f781900-f042-11ea-82f3-9b1fef047150.png)
+![Captura_20_11_13_08-50](https://user-images.githubusercontent.com/65475712/99155250-dae1dc00-267b-11eb-9b7e-07f1a43ac208.png)
 
 # WIFI ✓
 
