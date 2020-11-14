@@ -60,7 +60,7 @@ $ sudo nano /etc/default/grub
 ```
 _Agregar una nueva linea de GRUB CMD_
 
-![Captura de pantalla de 2020-08-18 13-51-39](https://user-images.githubusercontent.com/65475712/90558881-037c3780-e15a-11ea-8039-3ad6a0f2c247.png)
+![Captura_20_11_14_13-21](https://user-images.githubusercontent.com/65475712/99155312-56dc2400-267c-11eb-996f-2e10d7c9643d.png)
 
 ```
 GRUB_CMDLINE_LINUX="i8042.nopnp=1 pci=nocrs"
@@ -108,3 +108,7 @@ https://t.me/KarlasProject
 #### Software libre y/o Opensource
 
 https://t.me/drivemeca_opensource
+
+#### Canal de música Lo-Fi Hip Hop
+
+https://t.me/lowfidelitygg
