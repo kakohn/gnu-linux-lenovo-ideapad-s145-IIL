@@ -66,11 +66,11 @@ GRUB_CMDLINE_LINUX_DEFAULT="i8042.nopnp=1 pci=nocrs"
 ```
 _Guardar_ ```ctrl+o``` _y salir_ ```ctrl+x```
 ```
-    Debian/Ubuntu/Void Linux
+    ##Debian/Ubuntu/Void Linux
 $ sudo update-grub
 $ sudo reboot
 
-    Arch/OpenSUSE
+    ##Arch/OpenSUSE
 $ grub2-mkconfig -o /boot/grub2/grub.cfg
 $ sudo reboot
 ```
