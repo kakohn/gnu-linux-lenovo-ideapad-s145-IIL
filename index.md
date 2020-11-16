@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# Lenovo-Ideapad-s145-14IIL 
+![Captura_20_11_13_08-50](https://user-images.githubusercontent.com/65475712/99155250-dae1dc00-267b-11eb-9b7e-07f1a43ac208.png)
 
-You can use the [editor on GitHub](https://github.com/kakohn/gnu-linux-lenovo-ideapad-s145-14IIL/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Personalización LXDE ✔
+![2020-07-06-124157_1366x768_scrot](https://user-images.githubusercontent.com/65475712/86627824-22e24b00-bf86-11ea-9325-eeca4c793d1f.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Personalización Budgie ✔
+![Captura de pantalla de 2020-07-30 12-05-22](https://user-images.githubusercontent.com/65475712/89587992-f9744380-d7ff-11ea-838d-96d7102e5f3d.png)
+### Grupos de Telegram
 
-### Markdown
+#### Windows/GNU/Linux/BSD ✔
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+https://t.me/KarlasProject
 
-```markdown
-Syntax highlighted code block
+#### Software libre y/o Opensource ✔
 
-# Header 1
-## Header 2
-### Header 3
+https://t.me/drivemeca_opensource
 
-- Bulleted
-- List
+#### Canal de música Lo-Fi Hip Hop ✔
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kakohn/gnu-linux-lenovo-ideapad-s145-14IIL/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+https://t.me/lowfidelitygg
