@@ -10,12 +10,12 @@
 
 #### Windows/GNU/Linux/BSD ✔
 
-https://t.me/KarlasProject
+[Karla's Project](https://t.me/KarlasProject)
 
 #### Software libre y/o Opensource ✔
 
-https://t.me/drivemeca_opensource
+[DriveMeca](https://t.me/drivemeca_opensource)
 
 #### Canal de música Lo-Fi Hip Hop ✔
 
-https://t.me/lowfidelitygg
+[low fidelity _-](https://t.me/lowfidelitygg)
