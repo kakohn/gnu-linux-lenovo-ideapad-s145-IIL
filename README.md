@@ -50,7 +50,7 @@ $ sudo modprobe <dev_name>
 ```
 
 # Touchpad ✓
-#### Elantech Touchpad
+### Elantech Touchpad
 
 Se debe agregar una linea de GRUB CMD, en el archivo configuración de /etc/default/grub
 
@@ -107,14 +107,14 @@ $ make deb-pkg
 # ¡Espero haberte ayudado!
 ### Grupos de Telegram
 
-#### Windows/GNU/Linux/BSD
+#### Windows/GNU/Linux/BSD ✓
 
 https://t.me/KarlasProject
 
-#### Software libre y/o Opensource
+#### Software libre y/o Opensource ✓
 
 https://t.me/drivemeca_opensource
 
-#### Canal de música Lo-Fi Hip Hop
+#### Canal de música Lo-Fi Hip Hop ✓
 
 https://t.me/lowfidelitygg
