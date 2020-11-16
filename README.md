@@ -76,10 +76,10 @@ $ sudo reboot
 $ grub2-mkconfig -o /boot/grub2/grub.cfg
 $ sudo reboot
 ```
-# Personalización LXDE ✔
+# [Personalización LXDE ✔](https://youtu.be/pzQiQrm0Ei4)
 ![2020-07-06-124157_1366x768_scrot](https://user-images.githubusercontent.com/65475712/86627824-22e24b00-bf86-11ea-9325-eeca4c793d1f.png)
 
-# Personalización Budgie ✔
+# [Personalización Budgie ✔](https://youtu.be/jX36ehyIXgQ)
 ![Captura de pantalla de 2020-07-30 12-05-22](https://user-images.githubusercontent.com/65475712/89587992-f9744380-d7ff-11ea-838d-96d7102e5f3d.png)
 
 # Compilar Kernel ✔
