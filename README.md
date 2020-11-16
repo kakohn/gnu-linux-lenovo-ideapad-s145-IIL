@@ -1,7 +1,7 @@
 # Lenovo-Ideapad-s145-14IIL 
 ![Captura_20_11_13_08-50](https://user-images.githubusercontent.com/65475712/99155250-dae1dc00-267b-11eb-9b7e-07f1a43ac208.png)
 
-# WIFI ✓
+# WIFI ✔
 
 ### Chip WIFI Realtek rama "rtw88", rtw_8723de(rtl8723), rtw_8822be(rtl8822be), rtw_8822ce(rtl8822ce).
 Dependiendo de la distribución GNU/Linux, instalar la paquetería necesaria para compilar los módulos al kernel.
@@ -49,7 +49,7 @@ $ sudo modprobe <dev_name>
              rtw_8822ce 
 ```
 
-# Touchpad ✓
+# Touchpad ✔
 ### Elantech Touchpad
 
 Se debe agregar una linea de GRUB CMD, en el archivo configuración de /etc/default/grub
@@ -76,13 +76,13 @@ $ sudo reboot
 $ grub2-mkconfig -o /boot/grub2/grub.cfg
 $ sudo reboot
 ```
-# Personalización LXDE ✓
+# Personalización LXDE ✔
 ![2020-07-06-124157_1366x768_scrot](https://user-images.githubusercontent.com/65475712/86627824-22e24b00-bf86-11ea-9325-eeca4c793d1f.png)
 
-# Personalización Budgie ✓
+# Personalización Budgie ✔
 ![Captura de pantalla de 2020-07-30 12-05-22](https://user-images.githubusercontent.com/65475712/89587992-f9744380-d7ff-11ea-838d-96d7102e5f3d.png)
 
-# Compilar Kernel ✓
+# Compilar Kernel ✔
 
 ### _Paquetes necesarios_
 
@@ -107,14 +107,14 @@ $ make deb-pkg
 # ¡Espero haberte ayudado!
 ### Grupos de Telegram
 
-#### Windows/GNU/Linux/BSD ✓
+#### Windows/GNU/Linux/BSD ✔
 
 https://t.me/KarlasProject
 
-#### Software libre y/o Opensource ✓
+#### Software libre y/o Opensource ✔
 
 https://t.me/drivemeca_opensource
 
-#### Canal de música Lo-Fi Hip Hop ✓
+#### Canal de música Lo-Fi Hip Hop ✔
 
 https://t.me/lowfidelitygg
