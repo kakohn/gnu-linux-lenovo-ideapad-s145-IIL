@@ -4,7 +4,7 @@
 # WIFI ✔
 
 ### Chip WIFI Realtek rama "rtw88", rtw_8723de(rtl8723de), rtw_8822be(rtl8822be), rtw_8822ce(rtl8822ce).
-Paquetería necesaria para compilar los módulos al kernel.
+_Paquetería necesaria para compilar los módulos al kernel._
 
 #### _Debian/Ubuntu_
 ```
@@ -71,7 +71,7 @@ _Guardar_ ```ctrl+o``` _y salir_ ```ctrl+x```
 $ sudo update-grub
 $ sudo reboot
 ```
-#### _Arch/OpenSUSE_
+#### _Arch/openSUSE_
 ```
 $ grub2-mkconfig -o /boot/grub2/grub.cfg
 $ sudo reboot
