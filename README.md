@@ -4,7 +4,7 @@
 # WIFI ✔
 
 ### Chip WIFI Realtek rama "rtw88", rtw_8723de(rtl8723de), rtw_8822be(rtl8822be), rtw_8822ce(rtl8822ce).
-Dependiendo de la distribución GNU/Linux, instalar la paquetería necesaria para compilar los módulos al kernel.
+Paquetería necesaria para compilar los módulos al kernel.
 
 #### _Debian/Ubuntu_
 ```
