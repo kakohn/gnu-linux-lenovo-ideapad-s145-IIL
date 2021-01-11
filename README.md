@@ -52,14 +52,14 @@ $ sudo modprobe <dev_name>
 # Touchpad ✔
 ### Elantech Touchpad
 
-Se debe agregar una linea de GRUB CMD, en el archivo configuración de /etc/default/grub
+Agregar una linea a GRUB en el archivo configuración "/etc/default/grub"
 
 ```
 $ sudo nano /etc/default/grub
 ```
-_Agregar una nueva linea de GRUB CMD_
+_Agregar una nueva linea a GRUB_
 
-![Captura_20_11_14_13-21](https://user-images.githubusercontent.com/65475712/99155312-56dc2400-267c-11eb-996f-2e10d7c9643d.png)
+![Captura_21_01_11_12-59](https://user-images.githubusercontent.com/65475712/104226154-f6aff700-540c-11eb-8ac3-49a25683741a.png)
 
 ```
 GRUB_CMDLINE_LINUX_DEFAULT="i8042.nopnp=1 pci=nocrs"
