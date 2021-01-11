@@ -1,5 +1,5 @@
 # Lenovo-Ideapad-s145-14IIL 
-![Captura_21_01_11_12-54](https://user-images.githubusercontent.com/65475712/104225857-8dc87f00-540c-11eb-8368-b8fb6870940a.png)
+![Captura_21_01_11_13-03](https://user-images.githubusercontent.com/65475712/104226602-b43aea00-540d-11eb-9a61-29e191b2e068.png)
 
 # WIFI ✔
 
@@ -59,7 +59,7 @@ $ sudo nano /etc/default/grub
 ```
 _Agregar una nueva linea a GRUB_
 
-![Captura_21_01_11_12-59](https://user-images.githubusercontent.com/65475712/104226154-f6aff700-540c-11eb-8ac3-49a25683741a.png)
+![Captura_21_01_11_13-02](https://user-images.githubusercontent.com/65475712/104226553-9bcacf80-540d-11eb-9c15-da35329b3ea5.png)
 
 ```
 GRUB_CMDLINE_LINUX_DEFAULT="i8042.nopnp=1 pci=nocrs"
