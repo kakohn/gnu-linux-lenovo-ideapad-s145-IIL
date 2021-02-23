@@ -118,4 +118,4 @@ $ make deb-pkg
 
 #### Canal de música Lo-Fi Hip Hop ✔
 
-[low fidelity _-](https://t.me/lowfidelitygg)
+[low fidelity _-](https://t.me/lowfidelitycc)
