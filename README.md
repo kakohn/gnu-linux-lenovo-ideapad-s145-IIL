@@ -1,7 +1,7 @@
 # Lenovo-Ideapad-s145-14IIL 
 ![Captura_21_01_11_13-03](https://user-images.githubusercontent.com/65475712/104226602-b43aea00-540d-11eb-9a61-29e191b2e068.png)
 
-# WIFI ✔
+## WIFI ✔
 
 ### Chip WIFI Realtek rama "rtw88", rtw_8723de(rtl8723de), rtw_8822be(rtl8822be), rtw_8822ce(rtl8822ce).
 _Paquetería necesaria para compilar los módulos al kernel._
@@ -48,8 +48,9 @@ $ sudo modprobe <dev_name>
              rtw_8822be 
              rtw_8822ce 
 ```
+<br>
 
-# Touchpad ✔
+## Touchpad ✔
 ### Elantech Touchpad
 
 Agregar una linea a GRUB en el archivo configuración "/etc/default/grub"
@@ -76,8 +77,9 @@ $ sudo reboot
 $ grub2-mkconfig -o /boot/grub2/grub.cfg
 $ sudo reboot
 ```
+<br>
 
-# Compilar Kernel ✔
+## Compilar Kernel ✔
 
 ### _Paquetes necesarios_
 
@@ -85,7 +87,7 @@ $ sudo reboot
 ```
 $ sudo apt install build-essential libssl-dev libncurses5-dev gcc bc bison flex libelf-dev
 ```
-#### _Página donde se descarga el código fuente del kernel linux_
+#### _Código fuente Kernel linux_
 https://www.kernel.org/
 
 ```
@@ -99,13 +101,19 @@ $ make localmodconfig               || localmodconfig = [Coge solamente el hardw
 $ make deb-pkg
 ```
 
-# [Personalización LXDE ✔](https://youtu.be/pzQiQrm0Ei4)
+<br>
+
+## [Personalización LXDE ✔](https://youtu.be/pzQiQrm0Ei4)
 ![2020-07-06-124157_1366x768_scrot](https://user-images.githubusercontent.com/65475712/86627824-22e24b00-bf86-11ea-9325-eeca4c793d1f.png)
 
-# [Personalización Budgie ✔](https://youtu.be/jX36ehyIXgQ)
+<br>
+
+## [Personalización Budgie ✔](https://youtu.be/jX36ehyIXgQ)
 ![Captura de pantalla de 2020-07-30 12-05-22](https://user-images.githubusercontent.com/65475712/89587992-f9744380-d7ff-11ea-838d-96d7102e5f3d.png)
 
-# ¡Espero haberte ayudado!
+<br>
+
+## ¡Espero haberte ayudado!
 ### Grupos de Telegram
 
 #### Windows/GNU/Linux/BSD ✔
